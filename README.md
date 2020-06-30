@@ -1,5 +1,10 @@
 # DataMining
 3220190942 高佳萌
+互评作业4：
+选择数据集：
+1、wine 程序anmolyDetection-wine.ipynb
+2、skin 程序anmolyDetection-skin.ipynb
+
 
 互评作业3：
 选择的数据集：2.2 Video Game Sales 电子游戏销售分析 程序Assignment3.ipynb
